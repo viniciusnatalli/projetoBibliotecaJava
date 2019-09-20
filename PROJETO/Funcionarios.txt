@@ -1,0 +1,1 @@
+﻿11;NOME1;-;-;-;-;-;-;R TALTAL;01/01/2001;FINANCEIRO;login1;senha1;11;NOME1;-;-;-;-;-;-;R TALTAL;01/01/2001;FINANCEIRO;login2;senha2;22;Ana;-;-;-;-;-;-;R xis;05/03/2018;adm;ana;123;111222;mar;-;-;-;-;-;-;cello;21/05/19;financeiro;mar;cello;

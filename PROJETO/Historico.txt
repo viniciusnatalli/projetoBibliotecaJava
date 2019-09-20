@@ -1,0 +1,90 @@
+
+OPERACAO: EMPRESTIMO 
+Usuario: Vinicius
+Livro: senhor dos aneis
+Data: 21/06/2019
+
+OPERACAO: EMPRESTIMO 
+Usuario: Vinicius
+Livro: Robin Hood
+Data: 21/06/2019
+
+OPERACAO: DEVOLUCAO 
+Usuario: Vinicius
+Livro: senhor dos aneis
+Data: 21/06/2019
+
+OPERACAO: DEVOLUCAO 
+Usuario: Vinicius
+Livro: Robin Hood
+Data: 21/06/2019
+
+OPERACAO: EMPRESTIMO 
+Usuario: Vinicius
+Livro: senhor dos aneis
+Data: 21/06/2019
+
+OPERACAO: EMPRESTIMO 
+Usuario: Vinicius
+Livro: Robin Hood
+Data: 21/06/2019
+
+OPERACAO: DEVOLUCAO 
+Usuario: Vinicius
+Livro: Robin Hood
+Data: 21/06/2019
+
+OPERACAO: EMPRESTIMO 
+Usuario: ROBER
+Livro: Robin Hood
+Data: 21/06/2019
+
+OPERACAO: EMPRESTIMO 
+Usuario: Vinicius
+Livro: senhor dos aneis
+Data: 21/06/2019
+
+OPERACAO: EMPRESTIMO 
+Usuario: Vinicius
+Livro: senhor dos aneis
+Data: 21/06/2019
+
+OPERACAO: EMPRESTIMO 
+Usuario: Vinicius
+Livro: Robin Hood
+Data: 21/06/2019
+
+OPERACAO: DEVOLUCAO 
+Usuario: Vinicius
+Livro: senhor dos aneis
+Data: 21/06/2019
+
+OPERACAO: EMPRESTIMO 
+Usuario: Vinicius
+Livro: Robin Hood
+Data: 21/06/2019
+
+OPERACAO: EMPRESTIMO 
+Usuario: Vinicius
+Livro: senhor dos aneis
+Data: 22/06/2019
+
+OPERACAO: EMPRESTIMO 
+Usuario: Vinicius
+Livro: Robin Hood
+Data: 22/06/2019
+
+OPERACAO: EMPRESTIMO 
+Usuario: Marcello Manuel
+Livro: Robin Hood
+Data: 22/06/2019
+
+OPERACAO: DEVOLUCAO 
+Usuario: Vinicius
+Livro: senhor dos aneis
+Data: 22/06/2019
+
+OPERACAO: DEVOLUCAO 
+Usuario: Vinicius
+Livro: Robin Hood
+Data: 22/06/2019
